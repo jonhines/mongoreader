@@ -1,0 +1,3 @@
+{
+	"mongo-url":"mongodb://jon:mongo@ds013891.mlab.com:13891/starwars"
+}
